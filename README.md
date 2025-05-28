@@ -36,7 +36,7 @@
 ## Использование
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/people_detection.git
+   git clone https://github.com/Guiuii/people_detection.git
    cd people_detection
    ```
    
